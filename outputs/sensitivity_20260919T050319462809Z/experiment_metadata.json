@@ -1,0 +1,39 @@
+{
+  "common_start": "2021-08-02",
+  "common_end": "2026-09-17",
+  "strategy_case_count": 72,
+  "predeclared_grid": {
+    "windows": {
+      "20": [
+        20
+      ],
+      "60": [
+        60
+      ],
+      "120": [
+        120
+      ],
+      "20+60+120": [
+        20,
+        60,
+        120
+      ]
+    },
+    "top_n": [
+      1,
+      2,
+      3
+    ],
+    "costs_bps": [
+      5,
+      10,
+      20
+    ],
+    "cash_rules": [
+      false,
+      true
+    ]
+  },
+  "snapshot_sha256": "5e48ba89586b8c5d3c616c5f32fb47370955af885f0673034d0d641ca0a7f951",
+  "snapshot_path": "C:\\Users\\93024\\.codex\\.chatgpt-projects\\g-p-6aaa3881a0fc8191800b380c6914fd01\\etf_momentum_research\\data\\raw\\snapshots\\market_20260919T045109598636Z.json"
+}

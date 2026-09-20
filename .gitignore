@@ -1,0 +1,13 @@
+.venv/
+__pycache__/
+*.py[cod]
+.artifact_build/
+.codex-finalizer/
+.pytest_cache/
+.idea/
+.vscode/
+Thumbs.db
+.DS_Store
+
+# 运行时缓存与逐日审计明细；公开仓库只保留汇总研究成果
+outputs/run_*/

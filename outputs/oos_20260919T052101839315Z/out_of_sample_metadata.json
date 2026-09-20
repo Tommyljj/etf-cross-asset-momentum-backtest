@@ -1,0 +1,15 @@
+{
+  "research_start": "2021-08-02",
+  "research_end": "2023-12-29",
+  "validation_start": "2024-01-02",
+  "validation_end": "2026-09-17",
+  "split_date": "2024-01-01",
+  "selection_rule": "highest research-period Sharpe; annual return then label/top_n as tie-breakers",
+  "candidate_count": 12,
+  "fixed_cost_bps": 5,
+  "cash_rule": false,
+  "selected_window": "120",
+  "selected_top_n": 1,
+  "snapshot_sha256": "5e48ba89586b8c5d3c616c5f32fb47370955af885f0673034d0d641ca0a7f951",
+  "snapshot_path": "C:\\Users\\93024\\.codex\\.chatgpt-projects\\g-p-6aaa3881a0fc8191800b380c6914fd01\\etf_momentum_research\\data\\raw\\snapshots\\market_20260919T045109598636Z.json"
+}
